@@ -7,7 +7,6 @@ export default function Account() {
               account_circle
             </span>
             <a href="signup.html">Signup</a>
-            <!-- <span class="material-icons-outlined" title="Logout"> logout </span> -->
         </div>
     );
 }
