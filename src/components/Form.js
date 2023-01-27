@@ -2,9 +2,9 @@
 
 export default function Form({children, className, ...rest}) {
     return (
-        <form 
-            className={`${className} ${className.form}`} 
-            action="#" 
+        <form
+            className={`${className} ${className.form}`}
+            action="#"
             {...rest}
         >
             {children}
